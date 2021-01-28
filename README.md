@@ -19,6 +19,7 @@ The problem with this is the bot is hosted on heroku, and therefore ephemeral, s
 I could potentially push it to an AWS EC2, or store the server and channel in a DynamoDB table on AWS and keep the bot hosted @ heroku. Probably not going to do much more with this project though.
 
 ## Future Stuff
-    - Add graphs that export to the RichEmbed.
-    - Add the option for Crypto.
-    - Let users track their investments???
+
+- Add graphs that export to the RichEmbed.
+- Add the option for Crypto.
+- Let users track their investments???
