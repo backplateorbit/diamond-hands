@@ -64,3 +64,5 @@ client.on("ready", ()=> {
     }, 600000)
     updateChannel();
 })
+
+client.login(process.env.BOT_TOKEN)
